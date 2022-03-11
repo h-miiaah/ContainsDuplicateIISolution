@@ -21,6 +21,7 @@
   
 /*
 
+- Create a Map object to store the indices of the numbers we’ve seen so far.
 
 
 */
