@@ -25,6 +25,7 @@
 - Loop through the array and check if the current number is in the map.
 - If it is, we check if the current index is within k indices away from the previous index.
 - If it is, we return true.
+- If it isn’t, we add the current index to the map.
 
 
 */
