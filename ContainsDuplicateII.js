@@ -16,5 +16,6 @@
           }
           map.set(nums[i], i);
       }
+      return false;
   };
   
