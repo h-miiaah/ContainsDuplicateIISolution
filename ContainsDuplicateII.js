@@ -24,6 +24,7 @@
 - Create a Map object to store the indices of the numbers we’ve seen so far.
 - Loop through the array and check if the current number is in the map.
 - If it is, we check if the current index is within k indices away from the previous index.
+- If it is, we return true.
 
 
 */
