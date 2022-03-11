@@ -11,7 +11,7 @@
             const j = map.get(nums[i]);
 
             if (Math.abs(i - j) <= k) {
-                
+                return true;
               }
           }
       }
