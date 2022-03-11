@@ -4,6 +4,6 @@
  * @return {boolean}
  */
  var containsNearbyDuplicate = function(nums, k) {
-    
+    const map = new Map();
   };
   
